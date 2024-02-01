@@ -33,7 +33,7 @@ This project utilizes Support Vector Machines (SVM), Random Forest (RF), Neural 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/restaurant-recommendation.git
+   git clone https://github.com/hzaheer48/restaurant-recommendation.git
    cd restaurant-recommendation
    ```
 
